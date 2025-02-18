@@ -68,8 +68,7 @@ router.post('/login', async (req, res) => {
   const { email, password } = req.body;
   
   try {
-    const accountsData = await fs.readFile(path.join(__dirname, '../data/accounts.json'), 'utf-8');
-    const accounts = JSON.parse(accountsData);
+    const accountsData = await fs.readFile(path.join(__dirname, 'data/accounts.json'), 'utf-8');    const accounts = JSON.parse(accountsData);
     
     const user = accounts.find(acc => acc.email === email && acc.password === password);
     
