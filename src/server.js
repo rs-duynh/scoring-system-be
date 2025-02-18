@@ -142,7 +142,7 @@ router.post('/submit-scores', authMiddleware, async (req, res) => {
 });
 router.get('/scoring-status', authMiddleware, async (req, res) => {
   try {
-    const configPath = path.join(__dirname, '../data/config.json');
+    const configPath = path.join(__dirname, 'data/config.json');
     let config = { isLocked: false };
     
     try {
