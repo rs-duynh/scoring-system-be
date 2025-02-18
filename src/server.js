@@ -1,163 +1,433 @@
 // Backend - src/backend/server.js
-import express from 'express';
-import fs from 'fs/promises';
-import cors from 'cors';
-import path from 'path';
-import { fileURLToPath } from 'url';
+import express from "express";
+import fs from "fs/promises";
+import cors from "cors";
+import path from "path";
+import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
- 
+
 const app = express();
 app.use(express.json());
-app.use(cors({
-  origin: ['https://gmo-runsystem-scoring.vercel.app', 'http://localhost:3000'],
-  credentials: true
-}));
+app.use(
+  cors({
+    origin: [
+      "https://gmo-runsystem-scoring.vercel.app",
+      "http://localhost:3000",
+    ],
+    credentials: true,
+  })
+);
 
-const scoresFilePath = path.join(__dirname, 'data/scores.json');
+const scoresFilePath = path.join(__dirname, "data/scores.json");
 
 const defaultScores = {
-  'Exam 1': { judge: 0, member: 0, interaction: 0 },
-  'Exam 2': { judge: 0, member: 0, interaction: 0 },
-  'Exam 3': { judge: 0, member: 0, interaction: 0 },
-  'Exam 4': { judge: 0, member: 0, interaction: 0 },
-  'Exam 5': { judge: 0, member: 0, interaction: 0 },
-  'Exam 6': { judge: 0, member: 0, interaction: 0 },
-  'Exam 7': { judge: 0, member: 0, interaction: 0 }
+  "Exam 1": { judge: 0, member: 0, interaction: 0 },
+  "Exam 2": { judge: 0, member: 0, interaction: 0 },
+  "Exam 3": { judge: 0, member: 0, interaction: 0 },
+  "Exam 4": { judge: 0, member: 0, interaction: 0 },
+  "Exam 5": { judge: 0, member: 0, interaction: 0 },
+  "Exam 6": { judge: 0, member: 0, interaction: 0 },
+  "Exam 7": { judge: 0, member: 0, interaction: 0 },
 };
 
 const initializeScoresFile = async () => {
-  
   try {
     await fs.access(scoresFilePath);
   } catch {
-    await fs.writeFile(scoresFilePath, JSON.stringify(defaultScores, null, 2), 'utf-8');
+    await fs.writeFile(
+      scoresFilePath,
+      JSON.stringify(defaultScores, null, 2),
+      "utf-8"
+    );
   }
 };
 
 const router = express.Router();
 
-router.post('/submit-scores', async (req, res) => {
+router.post("/submit-scores", async (req, res) => {
   const { scores } = req.body;
   try {
-    await fs.writeFile(scoresFilePath, JSON.stringify(scores, null, 2), 'utf-8');
-    res.json({ message: 'Scores saved successfully!' });
+    await fs.writeFile(
+      scoresFilePath,
+      JSON.stringify(scores, null, 2),
+      "utf-8"
+    );
+    res.json({ message: "Scores saved successfully!" });
   } catch (error) {
-    res.status(500).json({ message: 'Error saving scores', error });
+    res.status(500).json({ message: "Error saving scores", error });
   }
 });
 
-router.get('/get-scores', async (req, res) => {
+router.get("/get-scores", async (req, res) => {
   try {
     let scores = defaultScores;
-    console.log("🚀 ~ app.get ~ scores:", scores)
+    console.log("🚀 ~ app.get ~ scores:", scores);
     try {
-      const data = await fs.readFile(scoresFilePath, 'utf-8');
+      const data = await fs.readFile(scoresFilePath, "utf-8");
       scores = JSON.parse(data);
     } catch {
-      await fs.writeFile(scoresFilePath, JSON.stringify(defaultScores, null, 2), 'utf-8');
+      await fs.writeFile(
+        scoresFilePath,
+        JSON.stringify(defaultScores, null, 2),
+        "utf-8"
+      );
     }
     res.json(scores);
   } catch (error) {
-    res.status(500).json({ message: 'Error reading scores', error });
+    res.status(500).json({ message: "Error reading scores", error });
   }
 });
 
-router.post('/login', async (req, res) => {
+router.post("/login", async (req, res) => {
   const { email, password } = req.body;
-  
+
   try {
-    const accountsData = await fs.readFile(path.join(__dirname, 'data/accounts.json'), 'utf-8');    const accounts = JSON.parse(accountsData);
-    
-    const user = accounts.find(acc => acc.email === email && acc.password === password);
-    
+    const accountsData = await fs.readFile(
+      path.join(__dirname, "data/accounts.json"),
+      "utf-8"
+    );
+    const accounts = JSON.parse(accountsData);
+
+    const user = accounts.find(
+      (acc) => acc.email === email && acc.password === password
+    );
+
     if (user) {
       // Create a simple token (should use JWT in practice)
-      const token = Buffer.from(`${email}-${Date.now()}`).toString('base64');
-      
+      const token = Buffer.from(`${email}-${Date.now()}`).toString("base64");
+
       res.json({
         success: true,
         user: {
           email: user.email,
-          role: user.role
+          role: user.role,
         },
-        token
+        token,
       });
     } else {
       res.status(401).json({
         success: false,
-        message: 'Invalid credentials'
+        message: "Invalid credentials",
       });
     }
   } catch (error) {
     res.status(500).json({
       success: false,
-      message: 'Server error',
-      error
+      message: "Server error",
+      error,
     });
   }
 });
 
 // Middleware to check token
 const authMiddleware = async (req, res, next) => {
-  const token = req.headers.authorization?.split(' ')[1];
-  
+  const token = req.headers.authorization?.split(" ")[1];
+
   if (!token) {
     return res.status(401).json({
       success: false,
-      message: 'No token provided'
+      message: "No token provided",
     });
   }
-  
+
   // Should verify JWT token in practice
   next();
 };
 
 // Add middleware for protected routes
-router.get('/get-scores', authMiddleware, async (req, res) => {
+router.get("/get-scores", authMiddleware, async (req, res) => {
   try {
     let scores = defaultScores;
-    console.log("🚀 ~ app.get ~ scores:", scores)
+    console.log("🚀 ~ app.get ~ scores:", scores);
     try {
-      const data = await fs.readFile(scoresFilePath, 'utf-8');
+      const data = await fs.readFile(scoresFilePath, "utf-8");
       scores = JSON.parse(data);
     } catch {
-      await fs.writeFile(scoresFilePath, JSON.stringify(defaultScores, null, 2), 'utf-8');
+      await fs.writeFile(
+        scoresFilePath,
+        JSON.stringify(defaultScores, null, 2),
+        "utf-8"
+      );
     }
     res.json(scores);
   } catch (error) {
-    res.status(500).json({ message: 'Error reading scores', error });
+    res.status(500).json({ message: "Error reading scores", error });
   }
 });
 
-router.post('/submit-scores', authMiddleware, async (req, res) => {
+router.post("/submit-scores", authMiddleware, async (req, res) => {
   const { scores } = req.body;
   try {
-    await fs.writeFile(scoresFilePath, JSON.stringify(scores, null, 2), 'utf-8');
-    res.json({ message: 'Scores saved successfully!' });
+    await fs.writeFile(
+      scoresFilePath,
+      JSON.stringify(scores, null, 2),
+      "utf-8"
+    );
+    res.json({ message: "Scores saved successfully!" });
   } catch (error) {
-    res.status(500).json({ message: 'Error saving scores', error });
+    res.status(500).json({ message: "Error saving scores", error });
   }
 });
-router.get('/scoring-status', authMiddleware, async (req, res) => {
+router.get("/scoring-status", authMiddleware, async (req, res) => {
   try {
-    const configPath = path.join(__dirname, 'data/config.json');
+    const configPath = path.join(__dirname, "data/config.json");
     let config = { isLocked: false };
-    
+
     try {
-      const data = await fs.readFile(configPath, 'utf-8');
+      const data = await fs.readFile(configPath, "utf-8");
       config = JSON.parse(data);
     } catch {
-      await fs.writeFile(configPath, JSON.stringify(config), 'utf-8');
+      await fs.writeFile(configPath, JSON.stringify(config), "utf-8");
     }
-    
+
     res.json({ isLocked: config.isLocked });
   } catch (error) {
-    res.status(500).json({ message: 'Error getting lock status', error });
+    res.status(500).json({ message: "Error getting lock status", error });
   }
 });
-app.use('/api', router);
+router.post("/reset-scores", authMiddleware, async (req, res) => {
+  try {
+    const resetScores = {
+      "Exam 1": {
+        scores: {
+          "test1@runsystem.net": {
+            judge: 0,
+            submitted: false,
+          },
+          "test2@runsystem.net": {
+            submitted: false,
+            judge: 0,
+          },
+          "test3@runsystem.net": {
+            submitted: false,
+            member: 0,
+          },
+          "test4@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test5@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test6@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test7@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+        },
+      },
+      "Exam 2": {
+        scores: {
+          "test1@runsystem.net": {
+            judge: 0,
+            submitted: false,
+          },
+          "test2@runsystem.net": {
+            submitted: false,
+            judge: 0,
+          },
+          "test3@runsystem.net": {
+            submitted: false,
+            member: 0,
+          },
+          "test4@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test5@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test6@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test7@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+        },
+      },
+      "Exam 3": {
+        scores: {
+          "test1@runsystem.net": {
+            judge: 0,
+            submitted: false,
+          },
+          "test2@runsystem.net": {
+            submitted: false,
+            judge: 0,
+          },
+          "test3@runsystem.net": {
+            submitted: false,
+            member: 0,
+          },
+          "test4@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test5@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test6@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test7@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+        },
+      },
+      "Exam 4": {
+        scores: {
+          "test1@runsystem.net": {
+            judge: 0,
+            submitted: false,
+          },
+          "test2@runsystem.net": {
+            submitted: false,
+            judge: 0,
+          },
+          "test3@runsystem.net": {
+            submitted: false,
+            member: 0,
+          },
+          "test4@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test5@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test6@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test7@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+        },
+      },
+      "Exam 5": {
+        scores: {
+          "test1@runsystem.net": {
+            judge: 0,
+            submitted: false,
+          },
+          "test2@runsystem.net": {
+            submitted: false,
+            judge: 0,
+          },
+          "test3@runsystem.net": {
+            submitted: false,
+            member: 0,
+          },
+          "test4@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test5@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test6@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test7@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+        },
+      },
+      "Exam 6": {
+        scores: {
+          "test1@runsystem.net": {
+            judge: 0,
+            submitted: false,
+          },
+          "test2@runsystem.net": {
+            submitted: false,
+            judge: 0,
+          },
+          "test3@runsystem.net": {
+            submitted: false,
+            member: 0,
+          },
+          "test4@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test5@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test6@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test7@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+        },
+      },
+      "Exam 7": {
+        scores: {
+          "test1@runsystem.net": {
+            judge: 0,
+            submitted: false,
+          },
+          "test2@runsystem.net": {
+            submitted: false,
+            judge: 0,
+          },
+          "test3@runsystem.net": {
+            submitted: false,
+            member: 0,
+          },
+          "test4@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test5@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test6@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+          "test7@runsystem.net": {
+            member: 0,
+            submitted: false,
+          },
+        },
+      },
+    };
+
+    await fs.writeFile(
+      scoresFilePath,
+      JSON.stringify(resetScores, null, 2),
+      "utf-8"
+    );
+    res.json({ message: "Scores reset successfully!" });
+  } catch (error) {
+    res.status(500).json({ message: "Error resetting scores", error });
+  }
+});
+
+app.use("/api", router);
 
 // app.use(express.static(path.join(__dirname, '../../build')));
 
@@ -167,5 +437,5 @@ app.use('/api', router);
 
 app.listen(5000, async () => {
   await initializeScoresFile();
-  console.log('Server running on port 5000');
+  console.log("Server running on port 5000");
 });
