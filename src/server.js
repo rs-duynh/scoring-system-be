@@ -15,7 +15,7 @@ app.use(cors({
   credentials: true
 }));
 
-const scoresFilePath = path.join(__dirname, '../data/scores.json');
+const scoresFilePath = path.join(__dirname, 'data/scores.json');
 
 const defaultScores = {
   'Exam 1': { judge: 0, member: 0, interaction: 0 },
