@@ -1,9 +1,44 @@
 [
-  { "email": "test1@runsystem.net", "password": "password1", "name": "AkiraGosho", "role": "admin" },
-  { "email": "test2@runsystem.net", "password": "password2", "name": "NHD", "role": "bgk" },
-  { "email": "test3@runsystem.net", "password": "password3", "name": "Y", "role": "member" },
-  { "email": "test4@runsystem.net", "password": "password4", "name": "TTTN", "role": "member" },
-  { "email": "test5@runsystem.net", "password": "password5", "name": "member đẹp trai", "role": "member" },
-  { "email": "test6@runsystem.net", "password": "password6", "name": "member đẹp gái", "role": "member" },
-  { "email": "test7@runsystem.net", "password": "password7", "name": "member đẹp lão", "role": "member" }
+  {
+    "email": "test1@runsystem.net",
+    "password": "password1",
+    "name": "admin bự",
+    "role": "admin"
+  },
+  {
+    "email": "test2@runsystem.net",
+    "password": "password2",
+    "name": "NHD",
+    "role": "bgk"
+  },
+  {
+    "email": "test3@runsystem.net",
+    "password": "password3",
+    "name": "Y",
+    "role": "member"
+  },
+  {
+    "email": "test4@runsystem.net",
+    "password": "password4",
+    "name": "TTBN",
+    "role": "member"
+  },
+  {
+    "email": "test5@runsystem.net",
+    "password": "password5",
+    "name": "member đẹp trai",
+    "role": "member"
+  },
+  {
+    "email": "test6@runsystem.net",
+    "password": "password6",
+    "name": "member đẹp gái",
+    "role": "member"
+  },
+  {
+    "email": "test7@runsystem.net",
+    "password": "password7",
+    "name": "member đẹp lão",
+    "role": "member"
+  }
 ]
