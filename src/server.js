@@ -23,14 +23,1414 @@ app.use(
 const scoresFilePath = path.join(__dirname, "data/scores.json");
 
 const defaultScores = {
-  "Exam 1": { judge: 0, member: 0, interaction: 0 },
-  "Exam 2": { judge: 0, member: 0, interaction: 0 },
-  "Exam 3": { judge: 0, member: 0, interaction: 0 },
-  "Exam 4": { judge: 0, member: 0, interaction: 0 },
-  "Exam 5": { judge: 0, member: 0, interaction: 0 },
-  "Exam 6": { judge: 0, member: 0, interaction: 0 },
-  "Exam 7": { judge: 0, member: 0, interaction: 0 },
-};
+  "Team 1": {
+    "scores": {
+      "test1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test3@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test4@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test5@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test6@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test7@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      }
+
+    }
+  },
+  "Team 2": {
+    "scores": {
+      "test1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test3@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test4@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test5@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test6@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test7@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      }
+
+    }
+  },
+  "Team 3": {
+    "scores": {
+      "test1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test3@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test4@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test5@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test6@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test7@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      }
+
+    }
+  },
+  "Team 4": {
+    "scores": {
+      "test1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test3@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test4@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test5@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test6@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test7@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      }
+
+    }
+  },
+  "Team 5": {
+    "scores": {
+      "test1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test3@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test4@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test5@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test6@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test7@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      }
+
+    }
+  },
+  "Team 6": {
+    "scores": {
+      "test1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test3@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test4@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test5@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test6@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test7@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      }
+
+    }
+  },
+  "Team 7": {
+    "scores": {
+      "test1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test3@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test4@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test5@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test6@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "test7@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      }
+
+    }
+  }
+}
 
 const initializeScoresFile = async () => {
   try {
@@ -103,6 +1503,7 @@ router.post("/login", async (req, res) => {
         user: {
           email: user.email,
           role: user.role,
+          name: user.name,
         },
         token,
       });
@@ -189,244 +1590,113 @@ router.get("/scoring-status", authMiddleware, async (req, res) => {
 });
 router.post("/reset-scores", authMiddleware, async (req, res) => {
   try {
-    const resetScores = {
-      "Exam 1": {
+    const defaultScores = {
+      "Team 1": {
         scores: {
           "test1@runsystem.net": {
-            judge: 0,
-            submitted: false,
-          },
-          "test2@runsystem.net": {
-            submitted: false,
-            judge: 0,
-          },
-          "test3@runsystem.net": {
-            submitted: false,
-            member: 0,
-          },
-          "test4@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test5@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test6@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test7@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-        },
-      },
-      "Exam 2": {
-        scores: {
-          "test1@runsystem.net": {
-            judge: 0,
-            submitted: false,
-          },
-          "test2@runsystem.net": {
-            submitted: false,
-            judge: 0,
-          },
-          "test3@runsystem.net": {
-            submitted: false,
-            member: 0,
-          },
-          "test4@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test5@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test6@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test7@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-        },
-      },
-      "Exam 3": {
-        scores: {
-          "test1@runsystem.net": {
-            judge: 0,
-            submitted: false,
-          },
-          "test2@runsystem.net": {
-            submitted: false,
-            judge: 0,
-          },
-          "test3@runsystem.net": {
-            submitted: false,
-            member: 0,
-          },
-          "test4@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test5@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test6@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test7@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-        },
-      },
-      "Exam 4": {
-        scores: {
-          "test1@runsystem.net": {
-            judge: 0,
-            submitted: false,
-          },
-          "test2@runsystem.net": {
-            submitted: false,
-            judge: 0,
-          },
-          "test3@runsystem.net": {
-            submitted: false,
-            member: 0,
-          },
-          "test4@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test5@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test6@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test7@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-        },
-      },
-      "Exam 5": {
-        scores: {
-          "test1@runsystem.net": {
-            judge: 0,
-            submitted: false,
-          },
-          "test2@runsystem.net": {
-            submitted: false,
-            judge: 0,
-          },
-          "test3@runsystem.net": {
-            submitted: false,
-            member: 0,
-          },
-          "test4@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test5@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test6@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test7@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-        },
-      },
-      "Exam 6": {
-        scores: {
-          "test1@runsystem.net": {
-            judge: 0,
-            submitted: false,
-          },
-          "test2@runsystem.net": {
-            submitted: false,
-            judge: 0,
-          },
-          "test3@runsystem.net": {
-            submitted: false,
-            member: 0,
-          },
-          "test4@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test5@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test6@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test7@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-        },
-      },
-      "Exam 7": {
-        scores: {
-          "test1@runsystem.net": {
-            judge: 0,
-            submitted: false,
-          },
-          "test2@runsystem.net": {
-            submitted: false,
-            judge: 0,
-          },
-          "test3@runsystem.net": {
-            submitted: false,
-            member: 0,
-          },
-          "test4@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test5@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test6@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-          "test7@runsystem.net": {
-            member: 0,
-            submitted: false,
-          },
-        },
-      },
+            branding: {
+              uniformity: 0,
+              props: 0
+            },
+            content: {
+              introduction: 0,
+              theme: 0,
+              creativity: 0
+            },
+            technical: {
+              videoEffect: 0,
+              videoQuality: 0,
+              audioQuality: 0
+            },
+            ai: {
+              imageQuality: 0,
+              audioQuality: 0,
+              scriptIdea: 0,
+              creativity: 0
+            },
+            presentation: {
+              speaking: 0,
+              confidence: 0,
+              timing: 0
+            },
+            submitted: false
+          }
+        }
+      }
     };
+
+    // Tạo template cho một user
+    const createUserTemplate = () => ({
+      branding: {
+        uniformity: 0,
+        props: 0
+      },
+      content: {
+        introduction: 0,
+        theme: 0,
+        creativity: 0
+      },
+      technical: {
+        videoEffect: 0,
+        videoQuality: 0,
+        audioQuality: 0
+      },
+      ai: {
+        imageQuality: 0,
+        audioQuality: 0,
+        scriptIdea: 0,
+        creativity: 0
+      },
+      presentation: {
+        speaking: 0,
+        confidence: 0,
+        timing: 0
+      },
+      submitted: false
+    });
+
+    // Danh sách users và teams
+    const users = [
+      "test1@runsystem.net",
+      "test2@runsystem.net", 
+      "test3@runsystem.net",
+      "test4@runsystem.net",
+      "test5@runsystem.net",
+      "test6@runsystem.net",
+      "test7@runsystem.net"
+    ];
+    
+    const teams = ["Team 1", "Team 2", "Team 3", "Team 4", "Team 5", "Team 6", "Team 7"];
+
+    // Tạo cấu trúc điểm mới
+    const newScores = {};
+    teams.forEach(team => {
+      newScores[team] = {
+        scores: {}
+      };
+      users.forEach(user => {
+        newScores[team].scores[user] = createUserTemplate();
+      });
+    });
 
     await fs.writeFile(
       scoresFilePath,
-      JSON.stringify(resetScores, null, 2),
+      JSON.stringify(newScores, null, 2),
       "utf-8"
     );
+
     res.json({ message: "Scores reset successfully!" });
   } catch (error) {
     res.status(500).json({ message: "Error resetting scores", error });
   }
 });
-
+router.get("/get-accounts", authMiddleware, async (req, res) => {
+  const accountsData = await fs.readFile(
+    path.join(__dirname, "data/accounts.json"),
+    "utf-8"
+  );
+  res.json(JSON.parse(accountsData));
+});
 app.use("/api", router);
 
 // app.use(express.static(path.join(__dirname, '../../build')));
