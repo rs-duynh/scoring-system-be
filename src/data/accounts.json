@@ -6,39 +6,21 @@
     "role": "admin"
   },
   {
-    "email": "test2@runsystem.net",
+    "email": "duynh@runsystem.net",
     "password": "password2",
     "name": "NHD",
     "role": "bgk"
   },
   {
-    "email": "test3@runsystem.net",
-    "password": "password3",
-    "name": "Y",
+    "email": "hoangduytn1703@gmail.com",
+    "password": "password2",
+    "name": "NHD",
     "role": "member"
   },
   {
-    "email": "test4@runsystem.net",
-    "password": "password4",
-    "name": "TTBN",
-    "role": "member"
-  },
-  {
-    "email": "test5@runsystem.net",
-    "password": "password5",
-    "name": "member đẹp trai",
-    "role": "member"
-  },
-  {
-    "email": "test6@runsystem.net",
-    "password": "password6",
-    "name": "member đẹp gái",
-    "role": "member"
-  },
-  {
-    "email": "test7@runsystem.net",
-    "password": "password7",
-    "name": "member đẹp lão",
+    "email": "gianghvt@runsystem.net",
+    "password": "gianghvt5125",
+    "name": "Hoàng Vũ Trường Giang",
     "role": "member"
   }
 ]

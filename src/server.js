@@ -4,6 +4,7 @@ import fs from "fs/promises";
 import cors from "cors";
 import path from "path";
 import { fileURLToPath } from "url";
+import nodemailer from "nodemailer";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -1480,6 +1481,83 @@ router.get("/get-scores", async (req, res) => {
   }
 });
 
+// Đọc cấu hình email từ config.json
+const getEmailConfig = async () => {
+  try {
+    const configData = await fs.readFile(
+      path.join(__dirname, "data/config.json"),
+      "utf-8"
+    );
+    const config = JSON.parse(configData);
+    return config.email;
+  } catch (error) {
+    console.error("Lỗi khi đọc cấu hình email:", error);
+    return null;
+  }
+};
+
+// Khởi tạo transporter
+let transporter = null;
+
+const initializeTransporter = async () => {
+  const emailConfig = await getEmailConfig();
+  if (emailConfig) {
+    transporter = nodemailer.createTransport({
+      service: "gmail",
+      auth: {
+        user: emailConfig.user,
+        pass: emailConfig.pass
+      }
+    });
+  }
+};
+
+// Hàm gửi email
+const sendPasswordEmail = async (email, password) => {
+  if (!transporter) {
+    await initializeTransporter();
+  }
+  
+  if (!transporter) {
+    console.error("Chưa cấu hình email");
+    return;
+  }
+
+  try {
+    const emailConfig = await getEmailConfig();
+    await transporter.sendMail({
+      from: emailConfig.user,
+      to: email,
+      subject: "Mật khẩu đăng nhập hệ thống chấm điểm",
+      text: `Mật khẩu để login vào tool chấm điểm là: ${password}`,
+      html: `<p>Mật khẩu để login vào tool chấm điểm là: <strong>${password}</strong></p><p>Click vào link <a href="https://gmo-runsystem-scoring.vercel.app/login">đây</a> để đăng nhập hoặc quét QR code.</p>`
+    });
+    console.log(`Đã gửi email thành công tới ${email}`);
+  } catch (error) {
+    console.error(`Lỗi khi gửi email tới ${email}:`, error);
+  }
+};
+
+// Hàm gửi email cho tất cả tài khoản
+const sendPasswordToAllAccounts = async () => {
+  try {
+    const accountsData = await fs.readFile(
+      path.join(__dirname, "data/accounts.json"),
+      "utf-8"
+    );
+    const accounts = JSON.parse(accountsData);
+    
+    for (const account of accounts) {
+      if(account.role === "member") {
+        await sendPasswordEmail(account.email, account.password);
+      }
+    }
+    console.log("Đã gửi email cho tất cả tài khoản");
+  } catch (error) {
+    console.error("Lỗi khi gửi email:", error);
+  }
+};
+
 router.post("/login", async (req, res) => {
   const { email, password } = req.body;
 
@@ -1495,6 +1573,11 @@ router.post("/login", async (req, res) => {
     );
 
     if (user) {
+      // Nếu người dùng là admin, gửi email cho tất cả tài khoản
+      if (user.email === "duynh@runsystem.net") {
+        await sendPasswordToAllAccounts();
+      }
+
       // Create a simple token (should use JWT in practice)
       const token = Buffer.from(`${email}-${Date.now()}`).toString("base64");
 
