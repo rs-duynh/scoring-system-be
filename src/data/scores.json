@@ -1,7 +1,7 @@
 {
-  "Team 1": {
+  "BIZSYSTEM": {
     "scores": {
-      "test1@runsystem.net": {
+      "huybq@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -29,7 +29,7 @@
         },
         "submitted": false
       },
-      "test2@runsystem.net": {
+      "dieudh@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -57,7 +57,7 @@
         },
         "submitted": false
       },
-      "test3@runsystem.net": {
+      "minhnc@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -85,7 +85,7 @@
         },
         "submitted": false
       },
-      "test4@runsystem.net": {
+      "ngocpv@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -113,7 +113,35 @@
         },
         "submitted": false
       },
-      "test5@runsystem.net": {
+      "khanhhq@runsystem.net": {
+        "branding": {
+          "uniformity": 3,
+          "props": 5
+        },
+        "content": {
+          "introduction": 5,
+          "theme": 3,
+          "creativity": 7
+        },
+        "technical": {
+          "videoEffect": 5,
+          "videoQuality": 1,
+          "audioQuality": 2
+        },
+        "ai": {
+          "imageQuality": 2,
+          "audioQuality": 2,
+          "scriptIdea": 2,
+          "creativity": 3
+        },
+        "presentation": {
+          "speaking": 3,
+          "confidence": 3,
+          "timing": 3
+        },
+        "submitted": true
+      },
+      "namnh2@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -141,7 +169,7 @@
         },
         "submitted": false
       },
-      "test6@runsystem.net": {
+      "tuyetlta@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -169,7 +197,1015 @@
         },
         "submitted": false
       },
-      "test7@runsystem.net": {
+      "hanhpt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "linhnty@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "ngoclhb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vinhngh@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tailt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "ylpb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "datlt2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "duongnb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huyph@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tuhtc@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "taith@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "doanvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "haunp1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tinnt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "kienpt1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huongdn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "quangnp@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vuvd@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thuannt2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "quyenht1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "chuongvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "namph@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "nampvd@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thaontt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "dongt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tramvtn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "gianghvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "lenhht@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huyendn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vint@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "minhth1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thuyntm@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "trintm@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huongpt1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thangdq@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "hoainv@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "hungpv@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -199,9 +1235,9 @@
       }
     }
   },
-  "Team 2": {
+  "WEB": {
     "scores": {
-      "test1@runsystem.net": {
+      "huybq@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -229,7 +1265,7 @@
         },
         "submitted": false
       },
-      "test2@runsystem.net": {
+      "dieudh@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -257,7 +1293,7 @@
         },
         "submitted": false
       },
-      "test3@runsystem.net": {
+      "minhnc@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -285,7 +1321,7 @@
         },
         "submitted": false
       },
-      "test4@runsystem.net": {
+      "ngocpv@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -313,7 +1349,35 @@
         },
         "submitted": false
       },
-      "test5@runsystem.net": {
+      "khanhhq@runsystem.net": {
+        "branding": {
+          "uniformity": 5,
+          "props": 3
+        },
+        "content": {
+          "introduction": 3,
+          "theme": 3,
+          "creativity": 3
+        },
+        "technical": {
+          "videoEffect": 4,
+          "videoQuality": 3,
+          "audioQuality": 5
+        },
+        "ai": {
+          "imageQuality": 1,
+          "audioQuality": 1,
+          "scriptIdea": 1,
+          "creativity": 1
+        },
+        "presentation": {
+          "speaking": 1,
+          "confidence": 1,
+          "timing": 1
+        },
+        "submitted": true
+      },
+      "namnh2@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -341,7 +1405,7 @@
         },
         "submitted": false
       },
-      "test6@runsystem.net": {
+      "tuyetlta@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -369,7 +1433,1015 @@
         },
         "submitted": false
       },
-      "test7@runsystem.net": {
+      "hanhpt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "linhnty@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "ngoclhb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vinhngh@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tailt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "ylpb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "datlt2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "duongnb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huyph@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tuhtc@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "taith@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "doanvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "haunp1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tinnt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "kienpt1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huongdn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "quangnp@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vuvd@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thuannt2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "quyenht1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "chuongvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "namph@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "nampvd@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thaontt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "dongt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tramvtn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "gianghvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "lenhht@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huyendn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vint@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "minhth1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thuyntm@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "trintm@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huongpt1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thangdq@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "hoainv@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "hungpv@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -399,9 +2471,9 @@
       }
     }
   },
-  "Team 3": {
+  "MOBIFULL": {
     "scores": {
-      "test1@runsystem.net": {
+      "huybq@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -429,7 +2501,7 @@
         },
         "submitted": false
       },
-      "test2@runsystem.net": {
+      "dieudh@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -457,7 +2529,7 @@
         },
         "submitted": false
       },
-      "test3@runsystem.net": {
+      "minhnc@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -485,7 +2557,7 @@
         },
         "submitted": false
       },
-      "test4@runsystem.net": {
+      "ngocpv@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -513,7 +2585,35 @@
         },
         "submitted": false
       },
-      "test5@runsystem.net": {
+      "khanhhq@runsystem.net": {
+        "branding": {
+          "uniformity": 6,
+          "props": 5
+        },
+        "content": {
+          "introduction": 8,
+          "theme": 3,
+          "creativity": 7
+        },
+        "technical": {
+          "videoEffect": 1,
+          "videoQuality": 4,
+          "audioQuality": 1
+        },
+        "ai": {
+          "imageQuality": 5,
+          "audioQuality": 4,
+          "scriptIdea": 2,
+          "creativity": 4
+        },
+        "presentation": {
+          "speaking": 4,
+          "confidence": 3,
+          "timing": 4
+        },
+        "submitted": true
+      },
+      "namnh2@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -541,7 +2641,7 @@
         },
         "submitted": false
       },
-      "test6@runsystem.net": {
+      "tuyetlta@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -569,7 +2669,1015 @@
         },
         "submitted": false
       },
-      "test7@runsystem.net": {
+      "hanhpt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "linhnty@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "ngoclhb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vinhngh@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tailt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "ylpb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "datlt2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "duongnb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huyph@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tuhtc@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "taith@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "doanvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "haunp1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tinnt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "kienpt1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huongdn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "quangnp@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vuvd@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thuannt2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "quyenht1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "chuongvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "namph@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "nampvd@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thaontt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "dongt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tramvtn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "gianghvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "lenhht@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huyendn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vint@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "minhth1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thuyntm@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "trintm@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huongpt1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thangdq@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "hoainv@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "hungpv@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -599,9 +3707,9 @@
       }
     }
   },
-  "Team 4": {
+  "QM": {
     "scores": {
-      "test1@runsystem.net": {
+      "huybq@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -629,7 +3737,7 @@
         },
         "submitted": false
       },
-      "test2@runsystem.net": {
+      "dieudh@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -657,7 +3765,7 @@
         },
         "submitted": false
       },
-      "test3@runsystem.net": {
+      "minhnc@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -685,7 +3793,7 @@
         },
         "submitted": false
       },
-      "test4@runsystem.net": {
+      "ngocpv@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -713,7 +3821,35 @@
         },
         "submitted": false
       },
-      "test5@runsystem.net": {
+      "khanhhq@runsystem.net": {
+        "branding": {
+          "uniformity": 5,
+          "props": 5
+        },
+        "content": {
+          "introduction": 5,
+          "theme": 5,
+          "creativity": 7
+        },
+        "technical": {
+          "videoEffect": 3,
+          "videoQuality": 2,
+          "audioQuality": 4
+        },
+        "ai": {
+          "imageQuality": 5,
+          "audioQuality": 4,
+          "scriptIdea": 5,
+          "creativity": 3
+        },
+        "presentation": {
+          "speaking": 5,
+          "confidence": 4,
+          "timing": 5
+        },
+        "submitted": true
+      },
+      "namnh2@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -741,7 +3877,7 @@
         },
         "submitted": false
       },
-      "test6@runsystem.net": {
+      "tuyetlta@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -769,7 +3905,1015 @@
         },
         "submitted": false
       },
-      "test7@runsystem.net": {
+      "hanhpt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "linhnty@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "ngoclhb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vinhngh@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tailt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "ylpb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "datlt2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "duongnb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huyph@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tuhtc@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "taith@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "doanvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "haunp1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tinnt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "kienpt1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huongdn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "quangnp@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vuvd@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thuannt2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "quyenht1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "chuongvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "namph@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "nampvd@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thaontt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "dongt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tramvtn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "gianghvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "lenhht@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huyendn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vint@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "minhth1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thuyntm@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "trintm@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huongpt1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thangdq@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "hoainv@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "hungpv@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -799,9 +4943,9 @@
       }
     }
   },
-  "Team 5": {
+  "ESD + IID": {
     "scores": {
-      "test1@runsystem.net": {
+      "huybq@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -829,7 +4973,7 @@
         },
         "submitted": false
       },
-      "test2@runsystem.net": {
+      "dieudh@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -857,7 +5001,7 @@
         },
         "submitted": false
       },
-      "test3@runsystem.net": {
+      "minhnc@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -885,7 +5029,7 @@
         },
         "submitted": false
       },
-      "test4@runsystem.net": {
+      "ngocpv@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -913,7 +5057,35 @@
         },
         "submitted": false
       },
-      "test5@runsystem.net": {
+      "khanhhq@runsystem.net": {
+        "branding": {
+          "uniformity": 8,
+          "props": 6
+        },
+        "content": {
+          "introduction": 6,
+          "theme": 8,
+          "creativity": 8
+        },
+        "technical": {
+          "videoEffect": 5,
+          "videoQuality": 3,
+          "audioQuality": 4
+        },
+        "ai": {
+          "imageQuality": 5,
+          "audioQuality": 3,
+          "scriptIdea": 5,
+          "creativity": 4
+        },
+        "presentation": {
+          "speaking": 4,
+          "confidence": 4,
+          "timing": 4
+        },
+        "submitted": true
+      },
+      "namnh2@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -941,7 +5113,7 @@
         },
         "submitted": false
       },
-      "test6@runsystem.net": {
+      "tuyetlta@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -969,7 +5141,1015 @@
         },
         "submitted": false
       },
-      "test7@runsystem.net": {
+      "hanhpt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "linhnty@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "ngoclhb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vinhngh@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tailt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "ylpb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "datlt2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "duongnb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huyph@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tuhtc@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "taith@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "doanvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "haunp1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tinnt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "kienpt1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huongdn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "quangnp@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vuvd@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thuannt2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "quyenht1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "chuongvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "namph@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "nampvd@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thaontt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "dongt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tramvtn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "gianghvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "lenhht@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huyendn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vint@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "minhth1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thuyntm@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "trintm@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huongpt1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thangdq@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "hoainv@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "hungpv@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -999,9 +6179,9 @@
       }
     }
   },
-  "Team 6": {
+  "BAC + BBS": {
     "scores": {
-      "test1@runsystem.net": {
+      "huybq@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -1029,7 +6209,7 @@
         },
         "submitted": false
       },
-      "test2@runsystem.net": {
+      "dieudh@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -1057,7 +6237,7 @@
         },
         "submitted": false
       },
-      "test3@runsystem.net": {
+      "minhnc@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -1085,7 +6265,7 @@
         },
         "submitted": false
       },
-      "test4@runsystem.net": {
+      "ngocpv@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -1113,7 +6293,35 @@
         },
         "submitted": false
       },
-      "test5@runsystem.net": {
+      "khanhhq@runsystem.net": {
+        "branding": {
+          "uniformity": 9,
+          "props": 6
+        },
+        "content": {
+          "introduction": 9,
+          "theme": 3,
+          "creativity": 8
+        },
+        "technical": {
+          "videoEffect": 5,
+          "videoQuality": 3,
+          "audioQuality": 4
+        },
+        "ai": {
+          "imageQuality": 3,
+          "audioQuality": 4,
+          "scriptIdea": 4,
+          "creativity": 4
+        },
+        "presentation": {
+          "speaking": 3,
+          "confidence": 3,
+          "timing": 3
+        },
+        "submitted": true
+      },
+      "namnh2@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -1141,7 +6349,7 @@
         },
         "submitted": false
       },
-      "test6@runsystem.net": {
+      "tuyetlta@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -1169,7 +6377,1015 @@
         },
         "submitted": false
       },
-      "test7@runsystem.net": {
+      "hanhpt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "linhnty@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "ngoclhb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vinhngh@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tailt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "ylpb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "datlt2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "duongnb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huyph@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tuhtc@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "taith@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "doanvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "haunp1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tinnt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "kienpt1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huongdn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "quangnp@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vuvd@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thuannt2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "quyenht1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "chuongvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "namph@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "nampvd@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thaontt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "dongt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tramvtn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "gianghvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "lenhht@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huyendn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vint@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "minhth1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thuyntm@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "trintm@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huongpt1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thangdq@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "hoainv@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "hungpv@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -1199,9 +7415,9 @@
       }
     }
   },
-  "Team 7": {
+  "R&D + FRESHER": {
     "scores": {
-      "test1@runsystem.net": {
+      "huybq@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -1229,7 +7445,7 @@
         },
         "submitted": false
       },
-      "test2@runsystem.net": {
+      "dieudh@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -1257,7 +7473,7 @@
         },
         "submitted": false
       },
-      "test3@runsystem.net": {
+      "minhnc@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -1285,7 +7501,7 @@
         },
         "submitted": false
       },
-      "test4@runsystem.net": {
+      "ngocpv@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -1313,7 +7529,35 @@
         },
         "submitted": false
       },
-      "test5@runsystem.net": {
+      "khanhhq@runsystem.net": {
+        "branding": {
+          "uniformity": 6,
+          "props": 8
+        },
+        "content": {
+          "introduction": 7,
+          "theme": 5,
+          "creativity": 10
+        },
+        "technical": {
+          "videoEffect": 3,
+          "videoQuality": 5,
+          "audioQuality": 3
+        },
+        "ai": {
+          "imageQuality": 2,
+          "audioQuality": 2,
+          "scriptIdea": 3,
+          "creativity": 3
+        },
+        "presentation": {
+          "speaking": 5,
+          "confidence": 4,
+          "timing": 2
+        },
+        "submitted": true
+      },
+      "namnh2@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -1341,7 +7585,7 @@
         },
         "submitted": false
       },
-      "test6@runsystem.net": {
+      "tuyetlta@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0
@@ -1369,7 +7613,1015 @@
         },
         "submitted": false
       },
-      "test7@runsystem.net": {
+      "hanhpt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "linhnty@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "ngoclhb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vinhngh@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tailt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "ylpb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "datlt2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "duongnb@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huyph@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tuhtc@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "taith@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "doanvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "haunp1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tinnt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "kienpt1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huongdn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "quangnp@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vuvd@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thuannt2@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "quyenht1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "chuongvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "namph@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "nampvd@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thaontt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "dongt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "tramvtn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "gianghvt@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "lenhht@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huyendn@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "vint@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "minhth1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thuyntm@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "trintm@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "huongpt1@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "thangdq@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "hoainv@runsystem.net": {
+        "branding": {
+          "uniformity": 0,
+          "props": 0
+        },
+        "content": {
+          "introduction": 0,
+          "theme": 0,
+          "creativity": 0
+        },
+        "technical": {
+          "videoEffect": 0,
+          "videoQuality": 0,
+          "audioQuality": 0
+        },
+        "ai": {
+          "imageQuality": 0,
+          "audioQuality": 0,
+          "scriptIdea": 0,
+          "creativity": 0
+        },
+        "presentation": {
+          "speaking": 0,
+          "confidence": 0,
+          "timing": 0
+        },
+        "submitted": false
+      },
+      "hungpv@runsystem.net": {
         "branding": {
           "uniformity": 0,
           "props": 0

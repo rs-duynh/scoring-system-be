@@ -1,26 +1,272 @@
 [
   {
-    "email": "test1@runsystem.net",
-    "password": "password1",
-    "name": "admin bự",
+    "email": "duynh@runsystem.net",
+    "password": "duynh",
+    "name": "Nguyễn Hoàng Duy",
     "role": "admin"
   },
   {
-    "email": "duynh@runsystem.net",
-    "password": "password2",
-    "name": "NHD",
+    "email": "huybq@runsystem.net",
+    "password": "huybq",
+    "name": "BÙI QUANG HUY",
+    "role": "member"
+  },
+  {
+    "email": "dieudh@runsystem.net",
+    "password": "dieudh",
+    "name": "ĐẶNG HUY DIỆU",
+    "role": "member"
+  },
+  {
+    "email": "minhnc@runsystem.net",
+    "password": "minhnc",
+    "name": "NGUYỄN CAO MINH",
+    "role": "member"
+  },
+  {
+    "email": "ngocpv@runsystem.net",
+    "password": "ngocpv",
+    "name": "PHẠM VĨNH NGỌC",
     "role": "bgk"
   },
   {
-    "email": "hoangduytn1703@gmail.com",
-    "password": "password2",
-    "name": "NHD",
+    "email": "khanhhq@runsystem.net",
+    "password": "khanhhq",
+    "name": "HUỲNH QUỐC KHÁNH",
+    "role": "bgk"
+  },
+  {
+    "email": "namnh2@runsystem.net",
+    "password": "namnh2",
+    "name": "NGUYỄN HÀ NAM",
+    "role": "member"
+  },
+  {
+    "email": "tuyetlta@runsystem.net",
+    "password": "tuyelta",
+    "name": "LÊ THỊ ÁNH TUYẾT",
+    "role": "member"
+  },
+  {
+    "email": "hanhpt@runsystem.net",
+    "password": "hanhpt",
+    "name": "PHẠM THỊ HẠNH",
+    "role": "member"
+  },
+  {
+    "email": "linhnty@runsystem.net",
+    "password": "linhnty",
+    "name": "NGUYỄN THỊ YẾN LINH",
+    "role": "member"
+  },
+  {
+    "email": "ngoclhb@runsystem.net",
+    "password": "ngoclhb",
+    "name": "LÊ HOÀNG BẢO NGỌC",
+    "role": "member"
+  },
+  {
+    "email": "vinhngh@runsystem.net",
+    "password": "vinhngh",
+    "name": "NGUYỄN GIẢ HOÀNG VINH",
+    "role": "bgk"
+  },
+  {
+    "email": "tailt@runsystem.net",
+    "password": "tailt",
+    "name": "LƯƠNG TÚ TÀI",
+    "role": "member"
+  },
+  {
+    "email": "ylpb@runsystem.net",
+    "password": "ylpb",
+    "name": "LÊ PHÚC BẢO Ý",
+    "role": "member"
+  },
+  {
+    "email": "datlt2@runsystem.net",
+    "password": "datlt2",
+    "name": "LÂM TIẾN ĐẠT",
+    "role": "member"
+  },
+  {
+    "email": "duongnb@runsystem.net",
+    "password": "duongnb",
+    "name": "NGUYỄN BẢO DƯƠNG",
+    "role": "member"
+  },
+  {
+    "email": "huyph@runsystem.net",
+    "password": "huyph",
+    "name": "PHẠM HOÀNG HUY",
+    "role": "member"
+  },
+  {
+    "email": "tuhtc@runsystem.net",
+    "password": "tuhtc",
+    "name": "HỒ THANH CẨM TÚ",
+    "role": "bgk"
+  },
+  {
+    "email": "taith@runsystem.net",
+    "password": "taith",
+    "name": "TRƯƠNG HỮU TÀI",
+    "role": "member"
+  },
+  {
+    "email": "doanvt@runsystem.net",
+    "password": "doanvt",
+    "name": "VÕ THÀNH ĐOÀN",
+    "role": "member"
+  },
+  {
+    "email": "haunp1@runsystem.net",
+    "password": "haunp1",
+    "name": "NGUYỄN PHÚC HẬU",
+    "role": "bgk"
+  },
+  {
+    "email": "tinnt@runsystem.net",
+    "password": "tinnt",
+    "name": "NGUYỄN THÀNH TÍN",
+    "role": "member"
+  },
+  {
+    "email": "kienpt1@runsystem.net",
+    "password": "kienpt1",
+    "name": "PHAN TRUNG KIÊN",
+    "role": "member"
+  },
+  {
+    "email": "huongdn@runsystem.net",
+    "password": "huongdn",
+    "name": "ĐẶNG NGỌC HƯƠNG",
+    "role": "member"
+  },
+  {
+    "email": "quangnp@runsystem.net",
+    "password": "quangnp",
+    "name": "NGUYỄN PHƯỚC QUANG",
+    "role": "bgk"
+  },
+  {
+    "email": "vuvd@runsystem.net",
+    "password": "vuvd",
+    "name": "VÕ ĐẠI VŨ",
+    "role": "member"
+  },
+  {
+    "email": "thuannt2@runsystem.net",
+    "password": "thuannt2",
+    "name": "NGUYỄN THANH THUẬN",
+    "role": "member"
+  },
+  {
+    "email": "quyenht1@runsystem.net",
+    "password": "quyenht1",
+    "name": "HỒNG TUẤN QUYỀN",
+    "role": "member"
+  },
+  {
+    "email": "chuongvt@runsystem.net",
+    "password": "chuongvt",
+    "name": "VÕ THIÊN CHƯƠNG",
+    "role": "member"
+  },
+  {
+    "email": "namph@runsystem.net",
+    "password": "namph",
+    "name": "PHAN HOÀNG NAM",
+    "role": "member"
+  },
+  {
+    "email": "nampvd@runsystem.net",
+    "password": "nampvd",
+    "name": "PHẠM VŨ DUY NAM",
+    "role": "member"
+  },
+  {
+    "email": "thaontt@runsystem.net",
+    "password": "thaontt",
+    "name": "NGUYỄN THỊ THANH THẢO",
+    "role": "bgk"
+  },
+  {
+    "email": "dongt@runsystem.net",
+    "password": "dongt",
+    "name": "THẠCH ĐÔNG",
+    "role": "member"
+  },
+  {
+    "email": "tramvtn@runsystem.net",
+    "password": "tramvtn",
+    "name": "VŨ THỊ NGỌC TRÂM",
     "role": "member"
   },
   {
     "email": "gianghvt@runsystem.net",
-    "password": "gianghvt5125",
-    "name": "Hoàng Vũ Trường Giang",
+    "password": "gianghvt",
+    "name": "HOÀNG VŨ TRƯỜNG GIANG",
     "role": "member"
+  },
+  {
+    "email": "lenhht@runsystem.net",
+    "password": "lenhht",
+    "name": "HUỲNH TƯ LỆNH",
+    "role": "member"
+  },
+  {
+    "email": "huyendn@runsystem.net",
+    "password": "huyendn",
+    "name": "ĐINH NGỌC HUYỀN",
+    "role": "bgk"
+  },
+  {
+    "email": "vint@runsystem.net",
+    "password": "vint",
+    "name": "NGÔ THỊ VI",
+    "role": "member"
+  },
+  {
+    "email": "minhth1@runsystem.net",
+    "password": "minhth1",
+    "name": "TRẦN HỮU MINH",
+    "role": "member"
+  },
+  {
+    "email": "thuyntm@runsystem.net",
+    "password": "thuyntm",
+    "name": "NGUYỄN THỊ MINH THỦY",
+    "role": "member"
+  },
+  {
+    "email": "trintm@runsystem.net",
+    "password": "trintm",
+    "name": "NGUYỄN TRẦN MINH TRÍ",
+    "role": "member"
+  },
+  {
+    "email": "huongpt1@runsystem.net",
+    "password": "huongpt1",
+    "name": "PHẠM THỊ HƯƠNG",
+    "role": "member"
+  },
+  {
+    "email": "thangdq@runsystem.net",
+    "password": "thangdq",
+    "name": "ĐỖ QUỐC THẮNG",
+    "role": "member"
+  },
+  {
+    "email": "hoainv@runsystem.net",
+    "password": "hoainv",
+    "name": "NGUYỄN VIỆT HOÀI",
+    "role": "member"
+  },
+  {
+    "email": "hungpv@runsystem.net",
+    "password": "hungpv",
+    "name": "PHAN VĂN HÙNG",
+    "role": "bgk"
   }
 ]
