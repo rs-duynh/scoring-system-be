@@ -8798,22 +8798,24 @@ const sendPasswordEmail = async (email, name, password) => {
 
 // Hàm gửi email cho tất cả tài khoản
 const sendPasswordToAllAccounts = async () => {
-  try {
-    const accountsData = await fs.readFile(
-      path.join(__dirname, "data/accounts.json"),
-      "utf-8"
-    );
-    const accounts = JSON.parse(accountsData);
+  console.log('tắt rồi!!!!');
+  
+  // try {
+  //   const accountsData = await fs.readFile(
+  //     path.join(__dirname, "data/accounts.json"),
+  //     "utf-8"
+  //   );
+  //   const accounts = JSON.parse(accountsData);
 
-    for (const account of accounts) {
-      if (account.role === "member") {
-        await sendPasswordEmail(account.email, account.name, account.password);
-      }
-    }
-    console.log("Đã gửi email cho tất cả tài khoản");
-  } catch (error) {
-    console.error("Lỗi khi gửi email:", error);
-  }
+  //   for (const account of accounts) {
+  //     if (account.role === "member") {
+  //       await sendPasswordEmail(account.email, account.name, account.password);
+  //     }
+  //   }
+  //   console.log("Đã gửi email cho tất cả tài khoản");
+  // } catch (error) {
+  //   console.error("Lỗi khi gửi email:", error);
+  // }
 };
 
 router.post("/login", async (req, res) => {
@@ -8882,7 +8884,6 @@ const authMiddleware = async (req, res, next) => {
 router.get("/get-scores", authMiddleware, async (req, res) => {
   try {
     let scores = defaultScores;
-    console.log("🚀 ~ app.get ~ scores:", scores);
     try {
       const data = await fs.readFile(scoresFilePath, "utf-8");
       scores = JSON.parse(data);
