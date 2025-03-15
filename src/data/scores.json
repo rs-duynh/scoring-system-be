@@ -1631,29 +1631,29 @@
       },
       "duongnb@runsystem.net": {
         "branding": {
-          "uniformity": 6,
+          "uniformity": 10,
           "props": 10
         },
         "content": {
-          "introduction": 6,
-          "theme": 5,
-          "creativity": 8
+          "introduction": 10,
+          "theme": 10,
+          "creativity": 10
         },
         "technical": {
-          "videoEffect": 3,
-          "videoQuality": 2,
+          "videoEffect": 5,
+          "videoQuality": 5,
           "audioQuality": 5
         },
         "ai": {
           "imageQuality": 5,
-          "audioQuality": 4,
-          "scriptIdea": 3,
+          "audioQuality": 5,
+          "scriptIdea": 5,
           "creativity": 5
         },
         "presentation": {
-          "speaking": 2,
+          "speaking": 5,
           "confidence": 5,
-          "timing": 3
+          "timing": 5
         },
         "submitted": true
       },
@@ -1771,29 +1771,29 @@
       },
       "haunp1@runsystem.net": {
         "branding": {
-          "uniformity": 2,
-          "props": 2
+          "uniformity": 10,
+          "props": 10
         },
         "content": {
-          "introduction": 1,
-          "theme": 3,
-          "creativity": 8
+          "introduction": 10,
+          "theme": 10,
+          "creativity": 10
         },
         "technical": {
-          "videoEffect": 4,
-          "videoQuality": 3,
-          "audioQuality": 1
+          "videoEffect": 5,
+          "videoQuality": 5,
+          "audioQuality": 5
         },
         "ai": {
           "imageQuality": 5,
-          "audioQuality": 3,
-          "scriptIdea": 1,
+          "audioQuality": 5,
+          "scriptIdea": 5,
           "creativity": 5
         },
         "presentation": {
           "speaking": 5,
-          "confidence": 4,
-          "timing": 1
+          "confidence": 5,
+          "timing": 5
         },
         "submitted": true
       },
@@ -4947,29 +4947,29 @@
     "scores": {
       "huybq@runsystem.net": {
         "branding": {
-          "uniformity": 5,
-          "props": 7
+          "uniformity": 10,
+          "props": 10
         },
         "content": {
-          "introduction": 5,
-          "theme": 6,
-          "creativity": 4
+          "introduction": 10,
+          "theme": 10,
+          "creativity": 10
         },
         "technical": {
-          "videoEffect": 1,
-          "videoQuality": 4,
-          "audioQuality": 4
+          "videoEffect": 5,
+          "videoQuality": 5,
+          "audioQuality": 5
         },
         "ai": {
-          "imageQuality": 2,
-          "audioQuality": 2,
-          "scriptIdea": 4,
-          "creativity": 1
+          "imageQuality": 5,
+          "audioQuality": 5,
+          "scriptIdea": 5,
+          "creativity": 5
         },
         "presentation": {
-          "speaking": 3,
-          "confidence": 3,
-          "timing": 1
+          "speaking": 5,
+          "confidence": 5,
+          "timing": 5
         },
         "submitted": true
       },
